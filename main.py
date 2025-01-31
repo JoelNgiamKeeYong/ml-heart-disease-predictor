@@ -21,7 +21,7 @@ if app_mode == "Home":
     st.text("By Joel Ngiam")
     
     # Add GitHub Repository Link
-    st.markdown("[🔗 GitHub Repository](https://github.com/JoelNgiamKeeYong/cnn-fruits-vege-recognition)", unsafe_allow_html=True)
+    st.markdown("[🔗 GitHub Repository](https://github.com/JoelNgiamKeeYong/ml-heart-disease-predictor)", unsafe_allow_html=True)
     
     # Image related to the project
     image_path = "ml-heart-disease-prediction.png"
